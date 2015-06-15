@@ -11,7 +11,7 @@
 6. Go to [http://localhost:3000](http://localhost:3000)
 
 ## Summary ##
-  > Savage Tadpole is a smarter shopping list--a list that you learns your patterns, reminds you when you're running low, and organizes your shopping categories.
+  > Smart Shopping List is a smarter shopping list--a list that you learns your patterns, reminds you when you're running low, and organizes your shopping categories.
 
 ## Problem ##
   > Everyone shops for groceries, and people often spend a lot of time every week writing the same items on their shopping list. Cutting coupons, remembering all your regular buys, and checking the pantry and the fridge to see what's running low gets repetitive and tedious.
