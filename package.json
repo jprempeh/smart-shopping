@@ -2,6 +2,9 @@
   "name": "smart-shopping",
   "version": "2.0.0",
   "description": "Smart Shopping List",
+  "engines": {
+    "node": "0.12.2"
+  },
   "scripts": {
     "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
