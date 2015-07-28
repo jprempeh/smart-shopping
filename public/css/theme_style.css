@@ -3873,23 +3873,6 @@ body.modal-open {
   font-size: 12px;
   margin-top: 5px;
 }
-/* CONTACTS */
-.contact-box {
-  background-color: #ffffff;
-  border: 1px solid #e7eaec;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-.contact-box a {
-  color: inherit;
-}
-/* INVOICE */
-.invoice-table tbody > tr > td:last-child,
-.invoice-table tbody > tr > td:nth-child(4),
-.invoice-table tbody > tr > td:nth-child(3),
-.invoice-table tbody > tr > td:nth-child(2) {
-  text-align: right;
-}
 .invoice-table thead > tr > th:last-child,
 .invoice-table thead > tr > th:nth-child(4),
 .invoice-table thead > tr > th:nth-child(3),
